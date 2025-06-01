@@ -1,0 +1,12 @@
+For create a new folder-->     mkdir folder_name
+For access another filder-->   cd foldername
+For show all files-->          ls -a 
+For check branch-->            git branch  
+For rename branch-->           git branch -M main
+For navigate-->                git checkout <- branch name ->
+For create new branch-->       git checkout -b <- new branch name ->
+For delete branch-->           git branch -d <- branch name ->
+For check difference-->        git diff <- branch name ->
+For check commit-->            git log
+For undo something-->          git reset --hard <- hash value from commit msg -> 
+Fork use for contribution.
