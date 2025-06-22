@@ -1,0 +1,36 @@
+Git and GitHub
+
+1. What is version control?
+Ans: Processes and systems to manage changes to files, programs snd directories.
+
+2. What should be version controlled?
+Ans: Version control is useful for anything taht:
+    changes over time 
+    needs to be shared
+
+3. What can version control do?
+Ans:  Track files in different states
+      Combine different versions of files
+      Identyfy a particualr version
+      Revert changes
+
+4. Benefits of Git--> 1. Git stores everything, so nothing is lost
+                      2. We can compare files at different times.
+                      3. See what changes were made, by who, and when
+                      4. Revert to previous versions of files
+
+5. Using Git--> 1. Git commands are run on the shell, also known as the terminal.
+                2. The shell:
+                    1. is a program for executing commands.
+                    2. can be used to easily preview or inspect files and directories.
+                      (Directory=folder)
+
+
+6. What is a Git repo?
+Ans: Git repo-> directory containing files and sub-directories and Git storage.
+
+7. Why make a repo?
+Ans: Systematically track versions
+     Revert to previous versions
+     Compare versions at different points in time
+     Collaborate with colleagues.
